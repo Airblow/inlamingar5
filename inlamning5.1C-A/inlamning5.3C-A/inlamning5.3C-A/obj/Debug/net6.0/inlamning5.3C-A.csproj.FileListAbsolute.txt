@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\inlamning5.3C-A\inlamning5.3C-A\bin\Debug\net6.0\inlamning5.3C-A.exe
+C:\Users\Alex\source\repos\inlamning5.3C-A\inlamning5.3C-A\bin\Debug\net6.0\inlamning5.3C-A.deps.json
+C:\Users\Alex\source\repos\inlamning5.3C-A\inlamning5.3C-A\bin\Debug\net6.0\inlamning5.3C-A.runtimeconfig.json
+C:\Users\Alex\source\repos\inlamning5.3C-A\inlamning5.3C-A\bin\Debug\net6.0\inlamning5.3C-A.dll
+C:\Users\Alex\source\repos\inlamning5.3C-A\inlamning5.3C-A\bin\Debug\net6.0\inlamning5.3C-A.pdb
+C:\Users\Alex\source\repos\inlamning5.3C-A\inlamning5.3C-A\obj\Debug\net6.0\inlamning5.3C-A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\inlamning5.3C-A\inlamning5.3C-A\obj\Debug\net6.0\inlamning5.3C-A.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\inlamning5.3C-A\inlamning5.3C-A\obj\Debug\net6.0\inlamning5.3C-A.AssemblyInfo.cs
+C:\Users\Alex\source\repos\inlamning5.3C-A\inlamning5.3C-A\obj\Debug\net6.0\inlamning5.3C-A.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\inlamning5.3C-A\inlamning5.3C-A\obj\Debug\net6.0\inlamning5.3C-A.dll
+C:\Users\Alex\source\repos\inlamning5.3C-A\inlamning5.3C-A\obj\Debug\net6.0\refint\inlamning5.3C-A.dll
+C:\Users\Alex\source\repos\inlamning5.3C-A\inlamning5.3C-A\obj\Debug\net6.0\inlamning5.3C-A.pdb
+C:\Users\Alex\source\repos\inlamning5.3C-A\inlamning5.3C-A\obj\Debug\net6.0\inlamning5.3C-A.genruntimeconfig.cache
+C:\Users\Alex\source\repos\inlamning5.3C-A\inlamning5.3C-A\obj\Debug\net6.0\ref\inlamning5.3C-A.dll

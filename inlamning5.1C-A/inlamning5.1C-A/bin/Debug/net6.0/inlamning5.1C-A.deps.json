@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "inlamning5.1C-A/1.0.0": {
+        "runtime": {
+          "inlamning5.1C-A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inlamning5.1C-A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

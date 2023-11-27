@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\inlamning5.2c-a\inlamning5.2c-a\bin\Debug\net6.0\inlamning5.2c-a.exe
+C:\Users\Alex\source\repos\inlamning5.2c-a\inlamning5.2c-a\bin\Debug\net6.0\inlamning5.2c-a.deps.json
+C:\Users\Alex\source\repos\inlamning5.2c-a\inlamning5.2c-a\bin\Debug\net6.0\inlamning5.2c-a.runtimeconfig.json
+C:\Users\Alex\source\repos\inlamning5.2c-a\inlamning5.2c-a\bin\Debug\net6.0\inlamning5.2c-a.dll
+C:\Users\Alex\source\repos\inlamning5.2c-a\inlamning5.2c-a\bin\Debug\net6.0\inlamning5.2c-a.pdb
+C:\Users\Alex\source\repos\inlamning5.2c-a\inlamning5.2c-a\obj\Debug\net6.0\inlamning5.2c-a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\inlamning5.2c-a\inlamning5.2c-a\obj\Debug\net6.0\inlamning5.2c-a.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\inlamning5.2c-a\inlamning5.2c-a\obj\Debug\net6.0\inlamning5.2c-a.AssemblyInfo.cs
+C:\Users\Alex\source\repos\inlamning5.2c-a\inlamning5.2c-a\obj\Debug\net6.0\inlamning5.2c-a.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\inlamning5.2c-a\inlamning5.2c-a\obj\Debug\net6.0\inlamning5.2c-a.dll
+C:\Users\Alex\source\repos\inlamning5.2c-a\inlamning5.2c-a\obj\Debug\net6.0\refint\inlamning5.2c-a.dll
+C:\Users\Alex\source\repos\inlamning5.2c-a\inlamning5.2c-a\obj\Debug\net6.0\inlamning5.2c-a.pdb
+C:\Users\Alex\source\repos\inlamning5.2c-a\inlamning5.2c-a\obj\Debug\net6.0\inlamning5.2c-a.genruntimeconfig.cache
+C:\Users\Alex\source\repos\inlamning5.2c-a\inlamning5.2c-a\obj\Debug\net6.0\ref\inlamning5.2c-a.dll
